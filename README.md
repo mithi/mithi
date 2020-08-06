@@ -1,4 +1,6 @@
-### Hi there 👋
+![Mithi's github stats][stats]
+
+[stats]: https://github-readme-stats.vercel.app/api?username=mithi&show_icons=true&count_private=false&theme=radical&hide=contribs,issues,prs
 
 <!--
 **mithi/mithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
