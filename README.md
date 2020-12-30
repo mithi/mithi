@@ -6,7 +6,7 @@
 [![Kingdom Rush GraphQL](https://img.shields.io/badge/graphQL%20-Kingdom%20Rush-orange.svg?logo=graphql&color=f368e0)](https://github.com/mithi/kingdom-rush-graphql)
 [![Hello Tiny Box](https://img.shields.io/badge/Hello%20-Tiny%20Box-orange.svg?logo=react&color=0abde3)](https://github.com/mithi/hello-tiny-box)
 
-[stats]: https://github-readme-stats.vercel.app/api?username=mithi&show_icons=true&count_private=false&theme=radical&hide=contribs,issues,prs
+[stats]: https://github-readme-stats.vercel.app/api?username=mithi&show_icons=true&count_private=false&theme=radical&hide=issues,commits
 [hexapod]: https://hexapod.netlify.app/
 
 <!--
