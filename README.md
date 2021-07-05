@@ -1,10 +1,16 @@
-[![Mithi's github stats][stats]][hexapod]
-
 [![Bare Minimum 2d](https://img.shields.io/badge/npm%20-Bare%20Minimum%202d-orange.svg?logo=npm&color=ee5253)](https://github.com/mithi/bare-minimum-2d)
 [![Bare Minimum 3d](https://img.shields.io/badge/npm%20-Bare%20Minimum%203d-orange.svg?logo=npm&color=ee5253)](https://github.com/mithi/bare-minimum-3d)
+[![Epic React Exercises](https://img.shields.io/badge/Epic%20-React%20Exercises-orange.svg?logo=react&color=0abde3)](https://github.com/mithi/epic-react-exercises)
+
+- Senior software engineer [@Aeronology](https://github.com/mithi-aeronology), developing complex user interfaces with React and Typescript. 
+- Motivated front-end developer, who values thoughtfully-written code; code that promotes developer happiness and productivity.
+- Previously worked as a robotics and deep-learning educator. 
+- View **[@mithi-aeronology](https://github.com/mithi-aeronology)** (My work Github account) and [Linkedin](http://linkedin.com/in/minimithi)
+
+[![Mithi's github stats][stats]][hexapod]
+
 [![Hexapod Kinematics Library](https://img.shields.io/badge/npm%20-Hexapod%20Kinematics%20Library-orange.svg?logo=npm&color=ee5253)](https://github.com/mithi/hexapod-kinematics-library)
 [![Kingdom Rush GraphQL](https://img.shields.io/badge/graphQL%20-Kingdom%20Rush-orange.svg?logo=graphql&color=f368e0)](https://github.com/mithi/kingdom-rush-graphql)
-[![Epic React Exercises](https://img.shields.io/badge/Epic%20-React%20Exercises-orange.svg?logo=react&color=0abde3)](https://github.com/mithi/epic-react-exercises)
 [![Hello Tiny Box](https://img.shields.io/badge/Hello%20-Tiny%20Box-orange.svg?logo=react&color=0abde3)](https://github.com/mithi/hello-tiny-box)
 
 [stats]: https://github-readme-stats.vercel.app/api?username=mithi&show_icons=true&count_private=false&theme=radical&hide=issues,commits
