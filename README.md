@@ -1,11 +1,13 @@
-[![Bare Minimum 2d](https://img.shields.io/badge/npm%20-Bare%20Minimum%202d-orange.svg?logo=npm&color=ee5253)](https://github.com/mithi/bare-minimum-2d)
-[![Bare Minimum 3d](https://img.shields.io/badge/npm%20-Bare%20Minimum%203d-orange.svg?logo=npm&color=ee5253)](https://github.com/mithi/bare-minimum-3d)
-[![Epic React Exercises](https://img.shields.io/badge/Epic%20-React%20Exercises-orange.svg?logo=react&color=0abde3)](https://github.com/mithi/epic-react-exercises)
+[![My work Github Account](https://img.shields.io/badge/Work%20github-@mithi(dash)aeronology-orange.svg?logo=github&color=3CAC3B)](https://github.com/mithi-aeronology) [![My linkedin](https://img.shields.io/badge/LinkedIn-minimithi-orange.svg?logo=linkedin&color=darkblue)](http://linkedin.com/in/minimithi)
 
-- Senior software engineer [@Aeronology](https://github.com/mithi-aeronology), developing complex user interfaces with React and Typescript. 
-- Motivated front-end developer, who values thoughtfully-written code; code that promotes developer happiness and productivity.
+
+- Senior software engineer at [@Aeronology](https://www.aeronology.travel/), developing complex user interfaces with React and Typescript. 
+- Motivated front-end developer who values thoughtfully-written code; code that promotes developer happiness and productivity.
 - Previously worked as a robotics and deep-learning educator. 
-- View **[@mithi-aeronology](https://github.com/mithi-aeronology)** (My work Github account) and [Linkedin](http://linkedin.com/in/minimithi)
+
+[![Bare Minimum 2d](https://img.shields.io/badge/npm%20-BareMinimum%202d-orange.svg?logo=npm&color=ee5253)](https://github.com/mithi/bare-minimum-2d)
+[![Bare Minimum 3d](https://img.shields.io/badge/npm%20-BareMinimum%203d-orange.svg?logo=npm&color=ee5253)](https://github.com/mithi/bare-minimum-3d)
+[![Epic React Exercises](https://img.shields.io/badge/Epic%20-React%20Exercises-orange.svg?logo=react&color=0abde3)](https://github.com/mithi/epic-react-exercises)
 
 [![Mithi's github stats][stats]][hexapod]
 
