@@ -1,8 +1,11 @@
-I'm a frontend web engineer focused on building high quality user interfaces. I mostly do Typescript + ReactJS + CSS nowadays. I worked previously as a robotics and deep-learning teacher.
+# 💗 🎀 🌸 🌷 💕
+
+I'm a frontend web engineer who frequently does backend work. I build performant, high-quality (and good-looking!) user interfaces that are easy to read, maintain, reuse and extend (with Typescript + ReactJS). I worked previously as a robotics and deep-learning teacher.  
 
 | . | . | . |
 |-----|------|------|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithi&theme=dracula)|
+
 
 [stats]: https://github-readme-stats.vercel.app/api?username=mithi&show_icons=true&count_private=false&theme=radical&hide=issues,commits&hide_rank=true&custom_title=Mithi's%20Stats
 [hexapod]: https://hexapod.netlify.app/
