@@ -1,3 +1,0 @@
-# Shulamith 
-
-## Test 
