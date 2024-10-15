@@ -2,7 +2,7 @@
 
 I'm a frontend web engineer - building performant, high-quality user interfaces. Formerly, a robotics teacher.  
 
-[`Aeronology`](https://github.com/mithi-aeronology?tab=overview&from=2021-12-01&to=2021-12-31) [`Luxor`](https://gitlab.com/mithi-luxor) [`Datature`](https://github.com/mithi-datature)
+Previously worked at: [`Aeronology`](https://github.com/mithi-aeronology?tab=overview&from=2021-12-01&to=2021-12-31) [`Luxor`](https://gitlab.com/mithi-luxor) [`Datature`](https://github.com/mithi-datature)
 
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithi&theme=dracula)|
