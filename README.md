@@ -12,7 +12,7 @@ Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.
 # Recent Projects
 
 1. [kanjiheatmap.com](https://kanjiheatmap.com) (React)
-   - Efficiently identify and study the most relevant kanji using frequency data-driven visuals. Explore kanji with advanced filtering, sorting, and more.
+   - A kanji exploration tool that helps you identify a kanji's usefulness with frequency data-driven visuals, advanced filtering, sorting, and more.
 2. [demo.ririkku.com](https://demo.ririkku.com/) (Svelte5)
    - Ririkku (リリック) is a karaoke-style music player with an AI-powered Japanese text analyzer built-in. Conveniently pick-up Japanese words and grammar while enjoying your favorite songs.
 <!--
