@@ -1,4 +1,4 @@
-Hi, I'm Mithi. I'm a frontend web engineer, I build high-quality user interfaces. Formerly, a robotics teacher.  
+Hi, I'm Mithi. I'm a frontend web engineer, I build high-quality user interfaces. Formerly, a robotics teacher. [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing).
 
 Previously worked at: [`Aeronology`](https://github.com/mithi-aeronology?tab=overview&from=2021-12-01&to=2021-12-31) [`Luxor`](https://luxor.tech) [`Datature`](https://datature.io/)
 
@@ -15,6 +15,7 @@ Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.
    - A kanji exploration tool that helps you identify and study the kanji most useful to you, with frequency data visuals, advanced filtering, sorting, and more.
 2. [ririkku.com](https://ririkku.com?utm_source=mithi_github) (Svelte5)
    - Ririkku (リリック) is a karaoke-style music player with an AI-powered Japanese text analyzer built-in. Conveniently pick-up Japanese words and grammar while enjoying your favorite songs.
+
 <!--
 **mithi/mithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
