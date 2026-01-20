@@ -1,4 +1,4 @@
-Hi, I'm Mithi. I'm a frontend web engineer, I build high-quality user interfaces. Formerly, a robotics teacher. [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing).
+Hi, I'm Mithi. I'm a frontend web engineer, I build high-quality user interfaces. Former robotics teacher. [View resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing).
 
 Previously worked at: [`Aeronology`](https://github.com/mithi-aeronology?tab=overview&from=2021-12-01&to=2021-12-31) [`Luxor`](https://luxor.tech) [`Datature`](https://datature.io/)
 
