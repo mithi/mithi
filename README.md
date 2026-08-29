@@ -1,4 +1,4 @@
-Hi, I'm Mithi. I'm a product software engineer focused on UI/UX. Japanese Language Beginner and Former Robotics Teacher. [View resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing).
+Hi, I'm Mithi. I'm product-focused software engineer, japanese language beginner and Former Robotics Teacher. [View resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing).
 
 Previously worked at: [`Aeronology`](https://github.com/mithi-aeronology?tab=overview&from=2021-12-01&to=2021-12-31) [`Luxor`](https://luxor.tech) [`Datature`](https://datature.io/)
 
